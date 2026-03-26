@@ -1,0 +1,15 @@
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/bin/Debug/net10.0/Zadanie_2
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/bin/Debug/net10.0/Zadanie_2.deps.json
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/bin/Debug/net10.0/Zadanie_2.runtimeconfig.json
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/bin/Debug/net10.0/Zadanie_2.dll
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/bin/Debug/net10.0/Zadanie_2.pdb
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.AssemblyInfoInputs.cache
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.AssemblyInfo.cs
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.csproj.CoreCompileInputs.cache
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.sourcelink.json
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.dll
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/refint/Zadanie_2.dll
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.pdb
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/Zadanie_2.genruntimeconfig.cache
+/Users/luna/Desktop/APBD-Cw2-s21168/Zadanie_2/Zadanie_2/obj/Debug/net10.0/ref/Zadanie_2.dll
